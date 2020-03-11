@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## My favorite thisngs
+- Open Source 
+- Mountain Bike
+- Cultural Danceing
